@@ -1,6 +1,6 @@
 # gulp-b-html
 
-A [gulp](https://github.com/gulpjs/gulp) plugin for [b-html](http://github.com/bouzuya/b-html).
+A [gulp](https://github.com/gulpjs/gulp) plugin for [b-html](http://github.com/b-html/b-html).
 
 ## Installation
 
